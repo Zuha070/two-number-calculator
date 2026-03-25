@@ -1,2 +1,7 @@
 # two-number-calculator
-Simple C program to add two numbers
+This is a simple calculator in C that performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulus
